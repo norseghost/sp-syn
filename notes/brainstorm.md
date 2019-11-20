@@ -8,3 +8,15 @@ forberede mit speciale
     -> Hvor er vi nu?
     -> hvordan kom vi herhen?
     -> policy-arkaeologi/blumer interaktionisme
+
+# workshop 20/11
+
+Pas på med at være normativ (forhåbentlig...)
+
+handicapforståelser → dermed kan man måske tillade sig at være normativ
+
+Mindre subjektiv/jeg form? Skriver mig selv ind; find balance mellem det akademiske sprog og det personlige
+
+hvor meget skal det historiske fylde?
+
+kan jeg nå alle tre 'pinde' i dispositioner
