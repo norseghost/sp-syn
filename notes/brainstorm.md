@@ -20,3 +20,12 @@ Mindre subjektiv/jeg form? Skriver mig selv ind; find balance mellem det akademi
 hvor meget skal det historiske fylde?
 
 kan jeg nå alle tre 'pinde' i dispositioner
+
+## vejledning 20/11
+
+beskriv undersøgelsens systematik
+expliciter problemformulering
+beskriv overvejelser - hvorfor servicelov → KL vejledning
+analysen et større dokument, der kan henvises til i synopsis/eksamen
+
+
