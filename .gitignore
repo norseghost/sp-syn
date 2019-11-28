@@ -1,11 +1,12 @@
 # I don't care about the output PDF
-eksamen.pdf
+synopsis.pdf
 eksamen.txt
 # or the literature
 lit/
 # dont keep non-clean data
 old*
 ## Core latex/pdflatex auxiliary files:
+tags
 *.aux
 *.lof
 *.log
