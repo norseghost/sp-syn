@@ -4,6 +4,9 @@ voksenområde
 borgere
 kommune
 borgeren
+borgerens
+kommunen
+kommunerne
 ad
 af
 aldrig
