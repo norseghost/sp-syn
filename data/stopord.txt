@@ -1,6 +1,9 @@
 styring
 specialiserede
 voksenområde
+borgere
+kommune
+borgeren
 ad
 af
 aldrig
@@ -196,7 +199,7 @@ nær
 næste
 næsten
 og
-også
+også'
 okay
 om
 omkring
