@@ -1,5 +1,5 @@
 # I don't care about the output PDF
-synopsis.pdf
+*.pdf
 eksamen.txt
 # or the literature
 lit/
